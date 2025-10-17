@@ -34,7 +34,7 @@ Example:
 
 ---
 
-## ⚙️ Options
+## Options
 
 | Option | Description | Default |
 |--------|--------------|----------|
@@ -49,7 +49,7 @@ Example:
 
 ---
 
-## 📦 Output Structure
+## Output Structure
 
 ```
 downloads/
@@ -68,6 +68,6 @@ downloads/
 
 ---
 
-## 📜 License
+## License
 
 MIT License — free to use, modify, and share.
